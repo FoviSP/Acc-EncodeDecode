@@ -2,12 +2,13 @@
 Невелика консольна програма для шифрування та дешифрування файлів
 
 ## Шифрування файлу
-<img src="https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img1.png" width="100">
+<img src="https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img1.png" width="500">
 
-![](https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img2.png)
+<img src="https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img2.png" width="500">
 
-![](https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img3.png)
+<img src="https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img3.png" width="500">
 
-![](https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img4.png)
+<img src="https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img4.png" width="500">
 
-![](https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img5.png)
+<img src="https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img5.png" width="500">
+
