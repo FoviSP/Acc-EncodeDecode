@@ -2,8 +2,7 @@
 Невелика консольна програма для шифрування та дешифрування файлів
 
 ## Шифрування файлу
-
-![](https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img1.png)
+<img src="[https://your-image-url.type](https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img1.png)" width="100">
 
 ![](https://github.com/Leksiyko/Acc-EncodeDecode/blob/main/gitImgs/img2.png)
 
