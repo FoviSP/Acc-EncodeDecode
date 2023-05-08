@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\acc-encodedecode\acc-encodedecode\alhes.h(82): warning C4244: =: преобразование "std::streamoff" в "size_t", возможна потеря данных
+  Acc-EncodeDecode.vcxproj -> C:\Users\USER\source\repos\Acc-EncodeDecode\Debug\Acc-EncodeDecode.exe

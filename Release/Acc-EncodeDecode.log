@@ -1,0 +1,9 @@
+﻿D:\Visual Studio 2017(C++)\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (Acc-EncodeDecode.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+c:\users\user\source\repos\acc-encodedecode\acc-encodedecode\alhes.h(82): warning C4244: =: преобразование "std::streamoff" в "size_t", возможна потеря данных
+  Создание кода
+  1 of 691 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Acc-EncodeDecode.vcxproj -> C:\Users\USER\source\repos\Acc-EncodeDecode\Release\Acc-Encrypt.exe
